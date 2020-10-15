@@ -1,2 +1,2 @@
 # Tarea_4
-Método bisección y falsa posición.
+Método bisección y falsa  posicion
